@@ -264,3 +264,4 @@ test.py
 
 python/tradingeconomics.egg-info/
 R/tradingeconomics/.RData
+.env
